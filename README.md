@@ -1,7 +1,7 @@
 # Awesome Pulumi [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of resources on [Pulumi](https://www.pulumi.com/).
-[<img src="https://rawgit.com/ghuntley/awesome-pulumi/master/pulumi.svg" align="right" width="100">](https://pulumi.com)
+[<img src="https://github.com/ghuntley/aweseome-pulumi/raw/master/pulumi.svg" align="right" width="100">](https://pulumi.com)
 Your [contributions](https://github.com/ghuntley/awesome-pulumi/blob/master/contributing.md) are welcome!
 
 Pulumi is a multi-language and multi-cloud development platform. It lets you create all aspects of cloud programs using real languages and real code, from infrastructure on up to the application itself. Just write programs and run them, and Pulumi figures out the rest.
