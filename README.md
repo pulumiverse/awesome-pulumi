@@ -53,6 +53,8 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 
 ## Libraries
 
+- [`jen20/pulumi-aws-vpc`](https://github.com/jen20/pulumi-aws-vpc) - Node.js and Python implementation of the AWS VPC Best-Practice Guidelines
+
 ## Talks
 
 ## License
