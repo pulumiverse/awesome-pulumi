@@ -25,11 +25,16 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 
 ## Tutorials and Blog Posts
 
+- [ Managing Deployment Secrets with Pulumi ](https://cloud-right.com/2020/06/pulumi-encrypt-secrets-azure-keyvault)
+
 ## Beginner Guides
 
 ## How-To
 
 ## Providers
+
+- [`jaxxstorm/pulumi-rke`](https://github.com/jaxxstorm/pulumi-rke) - Provision an RKE Kubernetes cluster with Pulumi
+- [`jaxxstorm/pulumi-scaleway`](https://github.com/jaxxstorm/pulumi-scaleway) - Provision to Sclaeway using Pulumi
 
 ### Amazon Web Services (AWS)
 
@@ -54,6 +59,7 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 ## Libraries
 
 - [`jen20/pulumi-aws-vpc`](https://github.com/jen20/pulumi-aws-vpc) - Node.js and Python implementation of the AWS VPC Best-Practice Guidelines
+- [`place1/kloudlib`](https://github.com/place1/kloudlib) - A collection of NPM libraries for deploying commonly used open source software to Kubernetes using Pulumi.
 
 ## Talks
 
