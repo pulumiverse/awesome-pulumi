@@ -23,7 +23,7 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 
 ## Books
 
-* [Pulumi in Action](https://www.manning.com/books/pulumi-in-action) - A book that shows you how to use Pulumi to build serverless applications of all kinds using TypeScript and Amazon Web Services.
+* [The Pulumi Book](https://thepulumibook.com) - A book that shows you how to use Pulumi to build serverless applications of all kinds using TypeScript and Amazon Web Services.
 
 ## Tutorials and Blog Posts
 [Cloud Governance - The Best Way (Azure)](https://cloud-right.com/2020/03/cloud-governance-pulumi)
