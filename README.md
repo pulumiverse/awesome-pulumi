@@ -30,7 +30,16 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 
 - [ Managing Deployment Secrets with Pulumi ](https://cloud-right.com/2020/06/pulumi-encrypt-secrets-azure-keyvault)
 
+[Pulumi - What and Why?](https://www.sanjaybhagia.com/2020/09/10/pulumi-what-and-why)
+- [How it works](https://www.sanjaybhagia.com/2020/09/21/pulumi-how-it-works)
+- [Configuration management](https://www.sanjaybhagia.com/2021/01/15/pulumi-configuration-management)
+
+[Pulumi vs Terraform](https://pritchard.dev/pulumi-vs-terraform/)
+
+[Integrating EC2 macOS workers with EKS and GitLab](https://aws.amazon.com/blogs/opensource/integrating-ec2-macos-workers-with-eks-and-gitlab/)
+
 ## Beginner Guides
+Introduction to Pulumi - [Katacoda](https://www.katacoda.com/jaxxstorm/courses/introduction-to-pulumi-ts) and [GitHub](https://github.com/pulumi/introduction-to-pulumi)
 
 ## How-To
 
@@ -65,8 +74,11 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 
 - [`jen20/pulumi-aws-vpc`](https://github.com/jen20/pulumi-aws-vpc) - Node.js and Python implementation of the AWS VPC Best-Practice Guidelines
 - [`place1/kloudlib`](https://github.com/place1/kloudlib) - A collection of NPM libraries for deploying commonly used open source software to Kubernetes using Pulumi.
+- [`vitobotta/pulumi-kubernetes-deployments`](https://github.com/vitobotta/pulumi-kubernetes-deployments) - A collection of Pulumi scripts used to automate repetitive deployments of applications and services to Kubernetes.
 
 ## Talks
+
+[Infrastructure as Code & GitOps | Rawkode Live](https://www.youtube.com/watch?v=s9zjayZ1oxA)
 
 ## License
 
