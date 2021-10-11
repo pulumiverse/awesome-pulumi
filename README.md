@@ -12,18 +12,25 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 * [Community](#community)
 * [Books](#books)
 * [Tutorials and Blog Posts](#tutorials-and-blog-posts)
+* [Beginner Guides](#beginner-guides)
+* [Providers](#providers)
 * [Testing](#testing)
 * [Tools](#tools)
 * [Libraries](#libraries)
 * [Talks](#talks)
 
 ## Official Resources
+[Get Started](https://www.pulumi.com/docs/get-started/) - Getting Started with Pulumi
+
+[Documentation](https://www.pulumi.com/docs/) - Pulumi documentation covering what Pulumi is, how to get started using it, and reference materials for its features and supported cloud providers.
+
+[Blog](https://www.pulumi.com/blog/) - Pulumi blog covering what is new, technical how-tos, customer stories, etc
 
 ## Community
 
 ## Books
 
-* [The Pulumi Book](https://thepulumibook.com) - A book that shows you how to use Pulumi to build serverless applications of all kinds using TypeScript and Amazon Web Services.
+[The Pulumi Book](https://thepulumibook.com) - A book that shows you how to use Pulumi to build serverless applications of all kinds using TypeScript and Amazon Web Services.
 
 ## Tutorials and Blog Posts
 [Cloud Governance - The Best Way (Azure)](https://cloud-right.com/2020/03/cloud-governance-pulumi)
@@ -38,6 +45,16 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 
 [Integrating EC2 macOS workers with EKS and GitLab](https://aws.amazon.com/blogs/opensource/integrating-ec2-macos-workers-with-eks-and-gitlab/)
 
+[GKE Autopilot Kubernetes Cluster with Pulumi Infrastructure as Code](https://medium.com/@felipegirotti/gke-autopilot-kubernetes-cluster-with-pulumi-infrastructure-as-code-c74ae8f7ee0f)
+- [Install Ingress-Nginx and ExternalDNS with Pulumi on GKE Autopilot](https://medium.com/@felipegirotti/install-ingress-nginx-and-externaldns-with-pulumi-on-gke-autopilot-6417c13f99ce)
+- [Gitlab Pipelines, Build, Tests, and Deploy Private Images (GKE, Pulumi)](https://medium.com/@felipegirotti/gitlab-pipelines-build-tests-and-deploy-private-images-gke-pulumi-480d5d56759b) 
+
+[Pulumi and LocalStack — beyond the basics](https://delitescere.medium.com/pulumi-and-localstack-beyond-the-basics-d993f3b94d17)
+
+[Serverless Redis with Cloudflare Workers & Pulumi](https://dev.to/fllstck/serverless-redis-with-cloudflare-workers-pulumi-12ke)
+
+[Observable Infrastructure as Code](https://dev.to/fllstck/observable-infrastructure-as-code-52ha)
+
 ## Beginner Guides
 Introduction to Pulumi - [Katacoda](https://www.katacoda.com/jaxxstorm/courses/introduction-to-pulumi-ts) and [GitHub](https://github.com/pulumi/introduction-to-pulumi)
 
@@ -46,7 +63,7 @@ Introduction to Pulumi - [Katacoda](https://www.katacoda.com/jaxxstorm/courses/i
 ## Providers
 
 - [`jaxxstorm/pulumi-rke`](https://github.com/jaxxstorm/pulumi-rke) - Provision an RKE Kubernetes cluster with Pulumi
-- [`jaxxstorm/pulumi-scaleway`](https://github.com/jaxxstorm/pulumi-scaleway) - Provision to Sclaeway using Pulumi
+- [`jaxxstorm/pulumi-scaleway`](https://github.com/jaxxstorm/pulumi-scaleway) - Provision to Scaleway using Pulumi
 
 ### Amazon Web Services (AWS)
 
@@ -62,7 +79,8 @@ Introduction to Pulumi - [Katacoda](https://www.katacoda.com/jaxxstorm/courses/i
 
 ### GitLab
 
-### Google Cloud Compute (GCP)
+### Google Cloud
+
 
 ### Miscellaneous
 
