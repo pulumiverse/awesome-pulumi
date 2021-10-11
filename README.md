@@ -14,6 +14,7 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 * [Tutorials and Blog Posts](#tutorials-and-blog-posts)
 * [Beginner Guides](#beginner-guides)
 * [Providers](#providers)
+* [Components](#components)
 * [Testing](#testing)
 * [Tools](#tools)
 * [Libraries](#libraries)
@@ -65,9 +66,12 @@ Introduction to Pulumi - [Katacoda](https://www.katacoda.com/jaxxstorm/courses/i
 ## How-To
 
 ## Providers
-
 - [`jaxxstorm/pulumi-rke`](https://github.com/jaxxstorm/pulumi-rke) - Provision an RKE Kubernetes cluster with Pulumi
 - [`jaxxstorm/pulumi-scaleway`](https://github.com/jaxxstorm/pulumi-scaleway) - Provision to Scaleway using Pulumi
+- [`brandonkal/pulumi-command`](https://github.com/brandonkal/pulumi-command) - A simple Pulumi provider that allows one to run arbitrary commands and treat their outputs as a resource
+- [`unplatform-io/pulumi-commercetools`](https://github.com/unplatform-io/pulumi-commercetools) - CommerceTools resource provider for Pulumi
+
+## Components
 
 ### Amazon Web Services (AWS)
 
@@ -77,7 +81,6 @@ Introduction to Pulumi - [Katacoda](https://www.katacoda.com/jaxxstorm/courses/i
 
 ### Microsoft Azure
 
-
 ### GitHub
 
 ### GitLab
@@ -85,8 +88,6 @@ Introduction to Pulumi - [Katacoda](https://www.katacoda.com/jaxxstorm/courses/i
 ### Google Cloud
 
 ### Miscellaneous
-- [`brandonkal/pulumi-command`](https://github.com/brandonkal/pulumi-command) - A simple Pulumi provider that allows one to run arbitrary commands and treat their outputs as a resource
-- [`unplatform-io/pulumi-commercetools`](https://github.com/unplatform-io/pulumi-commercetools) - CommerceTools resource provider for Pulumi
 
 ## Testing
 
