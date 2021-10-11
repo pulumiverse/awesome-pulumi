@@ -55,6 +55,10 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 
 [Observable Infrastructure as Code](https://dev.to/fllstck/observable-infrastructure-as-code-52ha)
 
+[Getting started with Pulumi on Azure](https://cloud-right.com/2019/03/azure-pulumi-getting-started)
+
+[Using Pulumi on Azure Storage Accounts](https://cloud-right.com/2019/10/pulumi-azure-storage)
+
 ## Beginner Guides
 Introduction to Pulumi - [Katacoda](https://www.katacoda.com/jaxxstorm/courses/introduction-to-pulumi-ts) and [GitHub](https://github.com/pulumi/introduction-to-pulumi)
 
@@ -72,8 +76,7 @@ Introduction to Pulumi - [Katacoda](https://www.katacoda.com/jaxxstorm/courses/i
 ### Kubernetes
 
 ### Microsoft Azure
-[Getting started with Pulumi on Azure](https://cloud-right.com/2019/03/azure-pulumi-getting-started)
-[Using Pulumi on Azure Storage Accounts](https://cloud-right.com/2019/10/pulumi-azure-storage)
+
 
 ### GitHub
 
@@ -81,8 +84,9 @@ Introduction to Pulumi - [Katacoda](https://www.katacoda.com/jaxxstorm/courses/i
 
 ### Google Cloud
 
-
 ### Miscellaneous
+- [`brandonkal/pulumi-command`](https://github.com/brandonkal/pulumi-command) - A simple Pulumi provider that allows one to run arbitrary commands and treat their outputs as a resource
+- [`unplatform-io/pulumi-commercetools`](https://github.com/unplatform-io/pulumi-commercetools) - CommerceTools resource provider for Pulumi
 
 ## Testing
 
@@ -93,6 +97,14 @@ Introduction to Pulumi - [Katacoda](https://www.katacoda.com/jaxxstorm/courses/i
 - [`jen20/pulumi-aws-vpc`](https://github.com/jen20/pulumi-aws-vpc) - Node.js and Python implementation of the AWS VPC Best-Practice Guidelines
 - [`place1/kloudlib`](https://github.com/place1/kloudlib) - A collection of NPM libraries for deploying commonly used open source software to Kubernetes using Pulumi.
 - [`vitobotta/pulumi-kubernetes-deployments`](https://github.com/vitobotta/pulumi-kubernetes-deployments) - A collection of Pulumi scripts used to automate repetitive deployments of applications and services to Kubernetes.
+- [`webiny/webiny-js`](https://github.com/webiny/webiny-js) - Platform for building serverless applications and APIs
+- [`m3o/platform`](https://github.com/m3o/platform) - Infrastructure automation for the Micro platform
+- [`cfeenstra67/statey`](https://github.com/cfeenstra67/statey) - Infrastructure-as-code framework written in Python
+- [`ksrichard/gocloud`](https://github.com/ksrichard/gocloud) - Create cloud based applications in Go
+- [`getcoconut/coconut`](https://github.com/getcoconut/coconut) - Serverless development tools around the Pulumi Cloud Framework (PCF)
+- [`nebulis-io/pulumi-react-app`](https://github.com/nebulis-io/pulumi-react-app) - Deploy react apps
+- [`ikovac/CICD-pipeline-with-pulumi`](https://github.com/ikovac/CICD-pipeline-with-pulumi) - Deploy CICD pipelines
+- [`vitobotta/pulumi-kubernetes-deployments`](https://github.com/vitobotta/pulumi-kubernetes-deployments) - Automate deployments of applications and services to K8s
 
 ## Talks
 
