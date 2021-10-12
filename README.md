@@ -48,6 +48,8 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 
 - [Integrating EC2 macOS workers with EKS and GitLab](https://aws.amazon.com/blogs/opensource/integrating-ec2-macos-workers-with-eks-and-gitlab/)
 - [Pulumi and LocalStack — beyond the basics](https://delitescere.medium.com/pulumi-and-localstack-beyond-the-basics-d993f3b94d17)
+- [The Progression of Self Service at KPMG (Part 1)](https://medium.com/kpmg-uk-engineering/the-progression-of-self-service-at-kpmg-part-1-8923e64966e4)
+- [Pulumi AWS Tutorial: Create a Lambda Function That Sends You Morning Emails Via SNS](https://travis.media/pulumi-aws-create-lambda-sns/)
 
 ### Azure
 
@@ -56,6 +58,11 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 - [Getting started with Pulumi on Azure](https://cloud-right.com/2019/03/azure-pulumi-getting-started)
 - [Using Pulumi on Azure Storage Accounts](https://cloud-right.com/2019/10/pulumi-azure-storage)
 - [API's From Dev to Production - Part 11 - Pulumi](https://dev.to/newday-technology/api-s-from-dev-to-production-part-11-pulumi-3pmk)
+- [Introduction to Infrastructure as Code on Azure using Python with Pulumi](https://devblogs.microsoft.com/devops/infrastructure-as-code-azure-python-wpulumi/?WT.mc_id=devops-33154-jagord)
+
+### DigitalOcean
+
+- [Think Outside the Stack With Pulumi](https://shawn.vause.us/posts/think-outside-stack-pulumi)
 
 ### Google Cloud
 
@@ -73,6 +80,9 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 - [Observable Infrastructure as Code](https://dev.to/fllstck/observable-infrastructure-as-code-52ha)
 - [My experience migrating my infrastructure from Terraform to Pulumi](https://blog.ekik.org/my-experience-migrating-my-infrastructure-from-terraform-to-pulumi)
 - [Building an ML Platform from Scratch](https://www.aporia.com/blog/building-an-ml-platform-from-scratch/)
+- [Creating Infrastructure Components with Pulumi and Bit](https://blog.bitsrc.io/creating-pulumi-aws-components-with-bit-4c3691eb0adb)
+- [Building Fauna’s GDPR-compliant distributed and scalable database infrastructure with Pulumi](https://fauna.com/blog/building-faunas-gdpr-compliant-distributed-and-scalable-database)
+- [Building Dispo](https://regynald.com/)
 
 ## Providers
 
@@ -106,6 +116,8 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 - [Getting from code to cloud with VS Code and Pulumi](https://www.youtube.com/watch?v=keEf2eoH-js)
 - [Pulumi - Simplified in Three Minutes](https://www.youtube.com/watch?v=S1-j-qTYQgY)
 - [The Ultimate Walkthrough to building a Pulumi Dynamic Provider](https://www.youtube.com/watch?v=H4nehfvCLm8)
+- [Quick Tech - Pulumi-Intro](https://www.youtube.com/watch?v=X2pWCPrgieI)
+- [How To Import Existing Resource to Pulumi](https://www.youtube.com/watch?v=O3BL7sEX1EQ)
 - [PulumiTV](https://www.youtube.com/c/PulumiTV/videos)
 
 ## License
