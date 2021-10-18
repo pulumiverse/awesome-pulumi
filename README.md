@@ -24,6 +24,8 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 
 [Blog](https://www.pulumi.com/blog/) - Pulumi blog covering what is new, technical how-tos, customer stories, etc
 
+[Registry](https://www.pulumi.com/registry/) - Searchable collection of Pulumi Packages published by Pulumi and partners
+
 ## Books
 
 [The Pulumi Book](https://thepulumibook.com) - A book that shows you how to use Pulumi to build serverless applications of all kinds using TypeScript and Amazon Web Services.
