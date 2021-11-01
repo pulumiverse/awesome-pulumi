@@ -85,6 +85,7 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 - [Creating Infrastructure Components with Pulumi and Bit](https://blog.bitsrc.io/creating-pulumi-aws-components-with-bit-4c3691eb0adb)
 - [Building Fauna’s GDPR-compliant distributed and scalable database infrastructure with Pulumi](https://fauna.com/blog/building-faunas-gdpr-compliant-distributed-and-scalable-database)
 - [Building Dispo](https://regynald.com/)
+- [Managing Rancher Resources using Pulumi as an Infrastructure as Code Tool](https://community.suse.com/posts/managing-rancher-resources-using-pulumi-as-an-infrastructure-as-code-tool)
 
 ## Providers
 
