@@ -18,11 +18,13 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 
 ## Official Resources
 
-[Get Started](https://www.pulumi.com/docs/get-started/) - Getting Started with Pulumi
+[Get Started](https://www.pulumi.com/docs/get-started/) - Getting Started with Pulumi.
 
 [Documentation](https://www.pulumi.com/docs/) - Pulumi documentation covering what Pulumi is, how to get started using it, and reference materials for its features and supported cloud providers.
 
-[Blog](https://www.pulumi.com/blog/) - Pulumi blog covering what is new, technical how-tos, customer stories, etc
+[Pulumi Registry](https://www.pulumi.com/registry/) - A searchable collection of Pulumi Packages published by Pulumi and our partners.
+
+[Blog](https://www.pulumi.com/blog/) - Pulumi blog covering what is new, technical how-tos, customer stories, etc.
 
 [Registry](https://www.pulumi.com/registry/) - Searchable collection of Pulumi Packages published by Pulumi and partners
 
