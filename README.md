@@ -101,6 +101,7 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 - [`nebulis-io/pulumi-react-app`](https://github.com/nebulis-io/pulumi-react-app) - Deploy react apps
 - [`ikovac/CICD-pipeline-with-pulumi`](https://github.com/ikovac/CICD-pipeline-with-pulumi) - Deploy CICD pipelines
 - [`vitobotta/pulumi-kubernetes-deployments`](https://github.com/vitobotta/pulumi-kubernetes-deployments) - Automate deployments of applications and services to K8s
+- [`localstack/pulumi-local`](https://github.com/localstack/pulumi-local) - Use Pulumi with LocalStack, easy-to-use test/mocking for cloud apps
 
 ## Libraries
 
