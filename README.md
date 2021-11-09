@@ -52,6 +52,7 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 - [Pulumi and LocalStack — beyond the basics](https://delitescere.medium.com/pulumi-and-localstack-beyond-the-basics-d993f3b94d17)
 - [The Progression of Self Service at KPMG (Part 1)](https://medium.com/kpmg-uk-engineering/the-progression-of-self-service-at-kpmg-part-1-8923e64966e4)
 - [Pulumi AWS Tutorial: Create a Lambda Function That Sends You Morning Emails Via SNS](https://travis.media/pulumi-aws-create-lambda-sns/)
+- [Creating CodeBuild projects with Pulumi](https://dev.to/danielrbradley/replacing-build-servers-with-pulumi-aws-28fm)
 
 ### Azure
 
