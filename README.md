@@ -112,8 +112,8 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 - [`webiny/webiny-js`](https://github.com/webiny/webiny-js) - Platform for building serverless applications and APIs
 - [`m3o/platform`](https://github.com/m3o/platform) - Infrastructure automation for the Micro platform
 - [`cfeenstra67/statey`](https://github.com/cfeenstra67/statey) - Infrastructure-as-code framework written in Python
-- [@tabetalt/pulumix](https://github.com/tabetalt/pulumix)
-- [pulumix](https://github.com/codedevote/pulumix)
+- [`tabetalt/pulumix`](https://github.com/tabetalt/pulumix) - Set of template-driven Pulumi resources used to configure Tabetalt's intrastructure as code.
+- [`codedevote/pulumix`](https://github.com/codedevote/pulumix) - Simple extensions and helpers to use with Pulumi
 
 ## Talks and Videos
 
