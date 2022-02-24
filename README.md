@@ -62,6 +62,8 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 - [Using Pulumi on Azure Storage Accounts](https://cloud-right.com/2019/10/pulumi-azure-storage)
 - [API's From Dev to Production - Part 11 - Pulumi](https://dev.to/newday-technology/api-s-from-dev-to-production-part-11-pulumi-3pmk)
 - [Introduction to Infrastructure as Code on Azure using Python with Pulumi](https://devblogs.microsoft.com/devops/infrastructure-as-code-azure-python-wpulumi/?WT.mc_id=devops-33154-jagord)
+- [Pulumi with an Azure Blob Storage Backend](https://www.techwatching.dev/posts/pulumi-azure-backend)
+- [How to provision an Azure SQL Database with Active Directory authentication](https://www.techwatching.dev/posts/sqldatabase-active-directory-authent)
 
 ### DigitalOcean
 
