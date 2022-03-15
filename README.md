@@ -15,6 +15,7 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 * [Tools](#tools)
 * [Libraries](#libraries)
 * [Talks and Videos](#talks-and-videos)
+* [Projects using Pulumi](#projects-using-pulumi)
 
 ## Official Resources
 
@@ -128,6 +129,14 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 - [Quick Tech - Pulumi-Intro](https://www.youtube.com/watch?v=X2pWCPrgieI)
 - [How To Import Existing Resource to Pulumi](https://www.youtube.com/watch?v=O3BL7sEX1EQ)
 - [PulumiTV](https://www.youtube.com/c/PulumiTV/videos)
+
+## Projects using Pulumi
+
+### Open Source
+- [Daily.dev](https://daily.dev/)
+
+### Commercial Products
+- [FeedHive](https://feedhive.io/)
 
 ## License
 
