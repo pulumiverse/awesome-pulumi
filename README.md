@@ -15,6 +15,7 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 * [Tools](#tools)
 * [Libraries](#libraries)
 * [Talks and Videos](#talks-and-videos)
+* [Projects using Pulumi](#projects-using-pulumi)
 
 ## Official Resources
 
@@ -129,8 +130,19 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 - [How To Import Existing Resource to Pulumi](https://www.youtube.com/watch?v=O3BL7sEX1EQ)
 - [PulumiTV](https://www.youtube.com/c/PulumiTV/videos)
 
+## Projects using Pulumi
+
+### Open Source
+- [Daily.dev](https://daily.dev/)[^dailydev]
+
+### Commercial Products
+- [FeedHive](https://feedhive.io/)[^feedhive]
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, Geoffrey Huntley has waived all copyright and related or neighboring rights to this work.
+
+[^dailydev]: [Daily.dev tech stack](https://github.com/dailydotdev/daily#-tech-stack)
+[^feedhive]: [Saas template from the creator of FeedHive](https://github.com/SimonHoiberg/saas-template#tech-stack)
