@@ -133,13 +133,16 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 ## Projects using Pulumi
 
 ### Open Source
-- [Daily.dev](https://daily.dev/)
+- [Daily.dev](https://daily.dev/)[^dailydev]
 
 ### Commercial Products
-- [FeedHive](https://feedhive.io/)
+- [FeedHive](https://feedhive.io/)[^FeedHive]
 
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, Geoffrey Huntley has waived all copyright and related or neighboring rights to this work.
+
+[^dailydev]: [Daily.dev tech stack](https://github.com/dailydotdev/daily#-tech-stack)
+[^FeedHive]: [Saas template from the creator of FeedHive](https://github.com/SimonHoiberg/saas-template#tech-stack)
