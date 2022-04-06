@@ -2,7 +2,7 @@
 
 > A curated list of resources on [Pulumi](https://www.pulumi.com/).
 [<img src="./pulumi.svg" align="right" width="100">](https://pulumi.com)
-Your [contributions](https://github.com/ghuntley/awesome-pulumi/blob/master/contributing.md) are welcome!
+Your [contributions](https://github.com/pulumiverse/awesome-pulumi/blob/master/CONTRIBUTING.md) are welcome!
 
 Pulumi is a multi-language and multi-cloud development platform. It lets you create all aspects of cloud programs using real languages and real code, from infrastructure on up to the application itself. Just write programs and run them, and Pulumi figures out the rest.
 
