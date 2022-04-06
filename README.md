@@ -46,6 +46,7 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 
 - [Pulumi: A True Infrastructure as Code Paradigm](https://betterprogramming.pub/pulumi-a-true-infrastructure-as-code-paradigm-ac07c530e219)
 - [Infrastructure as Code in TypeScript with Pulumi](https://blog.bitsrc.io/infrastructure-as-code-in-typescript-with-pulumi-31619abfe5d4)
+- [WTH is Pulumi?](https://samcogan.com/wth-is-pulumi/)
 
 ### AWS
 
@@ -65,6 +66,8 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 - [Introduction to Infrastructure as Code on Azure using Python with Pulumi](https://devblogs.microsoft.com/devops/infrastructure-as-code-azure-python-wpulumi/?WT.mc_id=devops-33154-jagord)
 - [Pulumi with an Azure Blob Storage Backend](https://www.techwatching.dev/posts/pulumi-azure-backend)
 - [How to provision an Azure SQL Database with Active Directory authentication](https://www.techwatching.dev/posts/sqldatabase-active-directory-authent)
+- [Using the Azure SDK with Pulumi](https://samcogan.com/using-the-azure-sdk-with-pulumi/)
+- [Storing Pulumi State in Azure](https://samcogan.com/storing-pulumi-state-in-azure/)
 
 ### DigitalOcean
 
@@ -90,6 +93,8 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 - [Building Fauna’s GDPR-compliant distributed and scalable database infrastructure with Pulumi](https://fauna.com/blog/building-faunas-gdpr-compliant-distributed-and-scalable-database)
 - [Building Dispo](https://regynald.com/)
 - [Managing Rancher Resources using Pulumi as an Infrastructure as Code Tool](https://community.suse.com/posts/managing-rancher-resources-using-pulumi-as-an-infrastructure-as-code-tool)
+- [Adding Security Contexts to Helm Charts with Pulumi Transformations](https://samcogan.com/adding-security-contexts-to-helm-charts-with-pulumi-transformations/)
+- [Debugging Pulumi Infrastructure as Code in Visual Studio](https://samcogan.com/debugging-pulumi-code-in-visual-studio/)
 
 ## Providers
 
