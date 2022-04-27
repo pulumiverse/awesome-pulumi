@@ -84,7 +84,7 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 - [Pulumi vs Terraform](https://pritchard.dev/pulumi-vs-terraform/)
 
 ### Miscellaneous
-
+- [Pulumi - Why it Matters](https://blog.effective-flow.ch/posts/2022/pulumi-why-it-matters)
 - [Serverless Redis with Cloudflare Workers & Pulumi](https://dev.to/fllstck/serverless-redis-with-cloudflare-workers-pulumi-12ke)
 - [Observable Infrastructure as Code](https://dev.to/fllstck/observable-infrastructure-as-code-52ha)
 - [My experience migrating my infrastructure from Terraform to Pulumi](https://blog.ekik.org/my-experience-migrating-my-infrastructure-from-terraform-to-pulumi)
