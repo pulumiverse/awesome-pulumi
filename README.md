@@ -82,6 +82,7 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 ### Comparison
 
 - [Pulumi vs Terraform](https://pritchard.dev/pulumi-vs-terraform/)
+- [Why will I choose Pulumi over Terraform for my next project?](https://www.techwatching.dev/posts/pulumi-vs-terraform)
 
 ### Miscellaneous
 - [Pulumi - Why it Matters](https://blog.effective-flow.ch/posts/2022/pulumi-why-it-matters)
