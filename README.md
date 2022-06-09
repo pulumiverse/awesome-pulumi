@@ -41,6 +41,7 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
   - [Configuration management](https://www.sanjaybhagia.com/2021/01/15/pulumi-configuration-management)
   - [Secrets Management](https://www.sanjaybhagia.com/2021/01/26/pulumi-secrets-management)
   - [State Management](https://www.sanjaybhagia.com/2021/02/01/pulumi-state-management)
+  - [Things I Wish I Knew Earlier About Pulumi](https://vsupalov.com/pulumi-learnings/)
 
 ### What is Pulumi?
 
