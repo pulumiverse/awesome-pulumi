@@ -137,6 +137,7 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 - [Quick Tech - Pulumi-Intro](https://www.youtube.com/watch?v=X2pWCPrgieI)
 - [How To Import Existing Resource to Pulumi](https://www.youtube.com/watch?v=O3BL7sEX1EQ)
 - [PulumiTV](https://www.youtube.com/c/PulumiTV/videos)
+- [Infrastructure as code - is it really?](https://www.youtube.com/watch?v=mukFFVM-jgg) - Shahid Iqbal
 
 ## Projects using Pulumi
 
