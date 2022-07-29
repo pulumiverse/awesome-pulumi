@@ -56,6 +56,8 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 - [The Progression of Self Service at KPMG (Part 1)](https://medium.com/kpmg-uk-engineering/the-progression-of-self-service-at-kpmg-part-1-8923e64966e4)
 - [Pulumi AWS Tutorial: Create a Lambda Function That Sends You Morning Emails Via SNS](https://travis.media/pulumi-aws-create-lambda-sns/)
 - [Creating CodeBuild projects with Pulumi](https://dev.to/danielrbradley/replacing-build-servers-with-pulumi-aws-28fm)
+- [Pulumi & AWS minimum viable build](https://katiekodes.com/pulumi-minimum-viable-build/)
+- [DynamoDB + Pulumi - The Ultimate Guide w/ Examples](https://dynobase.dev/dynamodb-pulumi/)
 
 ### Azure
 
@@ -69,6 +71,10 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 - [How to provision an Azure SQL Database with Active Directory authentication](https://www.techwatching.dev/posts/sqldatabase-active-directory-authent)
 - [Using the Azure SDK with Pulumi](https://samcogan.com/using-the-azure-sdk-with-pulumi/)
 - [Storing Pulumi State in Azure](https://samcogan.com/storing-pulumi-state-in-azure/)
+- Infrastructure-as-Code on Azure with Pulumi
+  - [Introduction to Infrastructure as Code and Pulumi with Azure](https://www.codeproject.com/Articles/5334973/Introduction-to-Infrastructure-as-Code-and-Pulumi)
+  - [Pulumi in Action on Azure](https://www.codeproject.com/Articles/5335047/Pulumi-in-Action-on-Azure)
+  - [Advanced Pulumi on Azure](https://www.codeproject.com/Articles/5335048/Advanced-Pulumi-on-Azure)
 
 ### DigitalOcean
 
@@ -78,7 +84,8 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 
 - [GKE Autopilot Kubernetes Cluster with Pulumi Infrastructure as Code](https://medium.com/@felipegirotti/gke-autopilot-kubernetes-cluster-with-pulumi-infrastructure-as-code-c74ae8f7ee0f)
   - [Install Ingress-Nginx and ExternalDNS with Pulumi on GKE Autopilot](https://medium.com/@felipegirotti/install-ingress-nginx-and-externaldns-with-pulumi-on-gke-autopilot-6417c13f99ce)
-  - [Gitlab Pipelines, Build, Tests, and Deploy Private Images (GKE, Pulumi)](https://medium.com/@felipegirotti/gitlab-pipelines-build-tests-and-deploy-private-images-gke-pulumi-480d5d56759b) 
+  - [Gitlab Pipelines, Build, Tests, and Deploy Private Images (GKE, Pulumi)](https://medium.com/@felipegirotti/gitlab-pipelines-build-tests-and-deploy-private-images-gke-pulumi-480d5d56759b)
+  - [Running containerized android tests in GCP using Pulumi and Selenoid](https://medium.com/@madhankumaravelu93/running-containerized-android-tests-in-gcp-using-pulumi-and-selenoid-faf4c398cd6c)
 
 ### Comparison
 
@@ -97,6 +104,7 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 - [Managing Rancher Resources using Pulumi as an Infrastructure as Code Tool](https://community.suse.com/posts/managing-rancher-resources-using-pulumi-as-an-infrastructure-as-code-tool)
 - [Adding Security Contexts to Helm Charts with Pulumi Transformations](https://samcogan.com/adding-security-contexts-to-helm-charts-with-pulumi-transformations/)
 - [Debugging Pulumi Infrastructure as Code in Visual Studio](https://samcogan.com/debugging-pulumi-code-in-visual-studio/)
+- [Pulumi OCI Provider: How to create a Minecraft ARM instance on Oracle Cloud Infrastructure](https://blog.ediri.io/pulumi-oci-provider-how-to-create-a-minecraft-arm-instance-on-oracle-cloud-infrastructure)
 
 ## Providers
 
@@ -138,6 +146,7 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 - [How To Import Existing Resource to Pulumi](https://www.youtube.com/watch?v=O3BL7sEX1EQ)
 - [PulumiTV](https://www.youtube.com/c/PulumiTV/videos)
 - [Infrastructure as code - is it really?](https://www.youtube.com/watch?v=mukFFVM-jgg) - Shahid Iqbal
+- [Infrastructure as Real Code - An Intro to Pulumi](https://www.youtube.com/watch?v=cBPfKVm6G1E) - Chris Klug
 
 ## Projects using Pulumi
 
