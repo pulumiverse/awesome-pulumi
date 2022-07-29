@@ -71,8 +71,7 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 - [How to provision an Azure SQL Database with Active Directory authentication](https://www.techwatching.dev/posts/sqldatabase-active-directory-authent)
 - [Using the Azure SDK with Pulumi](https://samcogan.com/using-the-azure-sdk-with-pulumi/)
 - [Storing Pulumi State in Azure](https://samcogan.com/storing-pulumi-state-in-azure/)
-- Infrastructure-as-Code on Azure with Pulumi
-  - [Introduction to Infrastructure as Code and Pulumi with Azure](https://www.codeproject.com/Articles/5334973/Introduction-to-Infrastructure-as-Code-and-Pulumi)
+- [Introduction to Infrastructure as Code and Pulumi with Azure](https://www.codeproject.com/Articles/5334973/Introduction-to-Infrastructure-as-Code-and-Pulumi)
   - [Pulumi in Action on Azure](https://www.codeproject.com/Articles/5335047/Pulumi-in-Action-on-Azure)
   - [Advanced Pulumi on Azure](https://www.codeproject.com/Articles/5335048/Advanced-Pulumi-on-Azure)
 
@@ -85,7 +84,7 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 - [GKE Autopilot Kubernetes Cluster with Pulumi Infrastructure as Code](https://medium.com/@felipegirotti/gke-autopilot-kubernetes-cluster-with-pulumi-infrastructure-as-code-c74ae8f7ee0f)
   - [Install Ingress-Nginx and ExternalDNS with Pulumi on GKE Autopilot](https://medium.com/@felipegirotti/install-ingress-nginx-and-externaldns-with-pulumi-on-gke-autopilot-6417c13f99ce)
   - [Gitlab Pipelines, Build, Tests, and Deploy Private Images (GKE, Pulumi)](https://medium.com/@felipegirotti/gitlab-pipelines-build-tests-and-deploy-private-images-gke-pulumi-480d5d56759b)
-  - [Running containerized android tests in GCP using Pulumi and Selenoid](https://medium.com/@madhankumaravelu93/running-containerized-android-tests-in-gcp-using-pulumi-and-selenoid-faf4c398cd6c)
+- [Running containerized android tests in GCP using Pulumi and Selenoid](https://medium.com/@madhankumaravelu93/running-containerized-android-tests-in-gcp-using-pulumi-and-selenoid-faf4c398cd6c)
 
 ### Comparison
 
