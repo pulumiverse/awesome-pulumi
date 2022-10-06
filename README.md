@@ -58,6 +58,7 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 - [Creating CodeBuild projects with Pulumi](https://dev.to/danielrbradley/replacing-build-servers-with-pulumi-aws-28fm)
 - [Pulumi & AWS minimum viable build](https://katiekodes.com/pulumi-minimum-viable-build/)
 - [DynamoDB + Pulumi - The Ultimate Guide w/ Examples](https://dynobase.dev/dynamodb-pulumi/)
+- [Automating AWS IaC with Github Actions](https://fearlessaws.substack.com/p/automating-infrastructure-as-code)
 
 ### Azure
 
