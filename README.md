@@ -92,6 +92,9 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 - [Pulumi vs Terraform](https://pritchard.dev/pulumi-vs-terraform/)
 - [Why will I choose Pulumi over Terraform for my next project?](https://www.techwatching.dev/posts/pulumi-vs-terraform)
 
+### CrossGuard (Policy as Code)
+- [Getting Started with Policy as Code](hhttps://fearlessaws.substack.com/p/getting-started-with-policy-as-code)
+
 ### Miscellaneous
 - [Pulumi - Why it Matters](https://blog.effective-flow.ch/posts/2022/pulumi-why-it-matters)
 - [Serverless Redis with Cloudflare Workers & Pulumi](https://dev.to/fllstck/serverless-redis-with-cloudflare-workers-pulumi-12ke)
