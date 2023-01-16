@@ -48,6 +48,7 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 - [Pulumi: A True Infrastructure as Code Paradigm](https://betterprogramming.pub/pulumi-a-true-infrastructure-as-code-paradigm-ac07c530e219)
 - [Infrastructure as Code in TypeScript with Pulumi](https://blog.bitsrc.io/infrastructure-as-code-in-typescript-with-pulumi-31619abfe5d4)
 - [WTH is Pulumi?](https://samcogan.com/wth-is-pulumi/)
+- [What is Pulumi? Key Concepts and Features Overview](https://spacelift.io/blog/what-is-pulumi)
 
 ### AWS
 
