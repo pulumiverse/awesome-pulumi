@@ -113,6 +113,7 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 - [Pulumi OCI Provider: How to create a Minecraft ARM instance on Oracle Cloud Infrastructure](https://blog.ediri.io/pulumi-oci-provider-how-to-create-a-minecraft-arm-instance-on-oracle-cloud-infrastructure)
 - [Pulumi Function Serialisation by Example](https://mark.smithson.me/pulumi-function-serialisation-by-example)
 - [Pulumi Development with GitHub Codespaces](https://samcogan.com/pulumi-development-with-github-codespaces/)
+- [Implementing Feature Flags with Pulumi](https://medium.com/itnext/implementing-feature-flags-with-pulumi-df578fc9ea43)
 
 ## Providers
 
