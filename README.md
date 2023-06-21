@@ -27,6 +27,8 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 
 [Blog](https://www.pulumi.com/blog/) - Pulumi blog covering what is new, technical how-tos, customer stories, etc.
 
+[IaC Recommended Practices](https://www.pulumi.com/blog/iac-recommended-practices-code-organization-and-stacks/) - Blog series discussing recommended practices related to stack organization, project structure, access control setup, deployments, and refactoring. 
+
 ## Books
 
 [The Pulumi Book](https://thepulumibook.com) - A book that shows you how to use Pulumi to build serverless applications of all kinds using TypeScript and Amazon Web Services.
@@ -142,6 +144,10 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 - [`cfeenstra67/statey`](https://github.com/cfeenstra67/statey) - Infrastructure-as-code framework written in Python
 - [`tabetalt/pulumix`](https://github.com/tabetalt/pulumix) - Set of template-driven Pulumi resources used to configure Tabetalt's intrastructure as code.
 - [`codedevote/pulumix`](https://github.com/codedevote/pulumix) - Simple extensions and helpers to use with Pulumi
+
+## Reference Architectures
+- [Office Booker](https://github.com/o2Labs/office-booker) - Real-time office space booking app
+- [Zephyr](https://github.com/pulumi/zephyr-app) - Online store
 
 ## Talks and Videos
 
