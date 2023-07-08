@@ -64,6 +64,8 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 - [Automating AWS IaC with Github Actions](https://fearlessaws.substack.com/p/automating-infrastructure-as-code)
 - [Lambda function URL with custom hostname](https://medium.com/@etienne.callies_59291/aws-lambda-function-url-with-custom-hostname-using-pulumi-454bf4062b00)
 - [Cron-scheduled lambda](https://medium.com/@etienne.callies_59291/scheduled-lambda-with-pulumi-88830aa0b4fe)
+- [Production Grade Static Site on AWS using Route53, CloudFront, and S3](https://medium.com/aws-in-plain-english/deploying-a-production-grade-static-site-on-aws-using-route53-cloudfront-and-s3-with-pulumi-17d95f9a283a)
+- [Deploy a Docker Based API using AWS Lambda Function URLs and CloudFront. No API Gateway needed.](https://medium.com/aws-in-plain-english/simplifying-serverless-deploy-a-docker-based-api-using-aws-lambda-function-urls-no-api-gateway-c18016591663)
 
 ### Azure
 
