@@ -147,6 +147,7 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 - [`cfeenstra67/statey`](https://github.com/cfeenstra67/statey) - Infrastructure-as-code framework written in Python
 - [`tabetalt/pulumix`](https://github.com/tabetalt/pulumix) - Set of template-driven Pulumi resources used to configure Tabetalt's intrastructure as code.
 - [`codedevote/pulumix`](https://github.com/codedevote/pulumix) - Simple extensions and helpers to use with Pulumi
+- [`pulumiverse/katwalk`](https://github.com/pulumiverse/katwalk) - Library for LLM backend deployments using Pulumi
 
 ## Reference Architectures
 - [Office Booker](https://github.com/o2Labs/office-booker) - Real-time office space booking app
