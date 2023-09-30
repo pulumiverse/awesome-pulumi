@@ -82,6 +82,8 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 - [Introduction to Infrastructure as Code and Pulumi with Azure](https://www.codeproject.com/Articles/5334973/Introduction-to-Infrastructure-as-Code-and-Pulumi)
   - [Pulumi in Action on Azure](https://www.codeproject.com/Articles/5335047/Pulumi-in-Action-on-Azure)
   - [Advanced Pulumi on Azure](https://www.codeproject.com/Articles/5335048/Advanced-Pulumi-on-Azure)
+- [Create an Azure-Ready GitHub Repository using Pulumi](https://www.techwatching.dev/posts/azure-ready-github-repository)
+- [Deploying to Azure from Azure DevOps without secrets](https://www.techwatching.dev/posts/ado-workload-identity-federation)
 
 ### DigitalOcean
 
