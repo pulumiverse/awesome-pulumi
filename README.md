@@ -138,6 +138,8 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 - [`localstack/pulumi-local`](https://github.com/localstack/pulumi-local) - Use Pulumi with LocalStack, easy-to-use test/mocking for cloud apps
 - [`env0`](https://www.env0.com) - Automate your Pulumi workflows with extra control over RBAC, Pull Request Automation, and other helpful features. 
 - [`tmeckel/pulumi-tf-provider-cookiecutter`](https://github.com/tmeckel/pulumi-tf-provider-cookiecutter) - A Cookiecutter template to create a Pulumi provider out of a Terraform Provider using TF Bridge
+- [`Deskypus`](https://deskypus.github.io) - Cross-platform desktop app to supercharge your local development experience
+- [`Deskypus Deeplink`](https://github.com/deskypus/deeplink#installation) A browser extension that deep-links into Deskypus while browsing Pulumi Cloud
 
 ## Libraries
 
