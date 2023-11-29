@@ -66,6 +66,7 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 - [Cron-scheduled lambda](https://medium.com/@etienne.callies_59291/scheduled-lambda-with-pulumi-88830aa0b4fe)
 - [Production Grade Static Site on AWS using Route53, CloudFront, and S3](https://medium.com/aws-in-plain-english/deploying-a-production-grade-static-site-on-aws-using-route53-cloudfront-and-s3-with-pulumi-17d95f9a283a)
 - [Deploy a Docker Based API using AWS Lambda Function URLs and CloudFront. No API Gateway needed.](https://medium.com/aws-in-plain-english/simplifying-serverless-deploy-a-docker-based-api-using-aws-lambda-function-urls-no-api-gateway-c18016591663)
+- [Multi-service ECS Fargate cluster accessible via HTTPS custom hostname](https://medium.com/@etienne.callies_59291/deploy-your-aws-ecs-cluster-with-pulumi-0cdd5b949303)
 
 ### Azure
 
