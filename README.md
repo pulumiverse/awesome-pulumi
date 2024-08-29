@@ -142,6 +142,7 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 - [`Deskypus`](https://deskypus.github.io) - Cross-platform desktop app to supercharge your local development experience whether you use self-managed or Pulumi Cloud as your backend
 - [`Deskypus Deeplink`](https://github.com/deskypus/deeplink#installation) A browser extension that deep-links into Deskypus while browsing Pulumi Cloud
 - [`spigell/pulumi-hcloud-kube-hetzner`](https://github.com/spigell/pulumi-hcloud-kube-hetzner) - Deploy and manage Kubernetes (k3s) cluster with Hetzner Cloud.
+- [`bperel/pulumi-history-as-git`](https://github.com/bperel/pulumi-history-as-git) - Browse through the history of a Pulumi stack with Git commands.
 
 ## Libraries
 
