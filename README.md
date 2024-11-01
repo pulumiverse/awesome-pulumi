@@ -70,6 +70,7 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 
 ### Azure
 
+- [Workshop to learn Pulumi on Azure](https://github.com/TechWatching/pulumi-azure-workshop) 
 - [Cloud Governance - The Best Way (Azure)](https://cloud-right.com/2020/03/cloud-governance-pulumi)
   - [ Managing Deployment Secrets with Pulumi ](https://cloud-right.com/2020/06/pulumi-encrypt-secrets-azure-keyvault)
 - [Getting started with Pulumi on Azure](https://cloud-right.com/2019/03/azure-pulumi-getting-started)
