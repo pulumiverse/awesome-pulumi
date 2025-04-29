@@ -139,7 +139,7 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 - [`localstack/pulumi-local`](https://github.com/localstack/pulumi-local) - Use Pulumi with LocalStack, easy-to-use test/mocking for cloud apps
 - [`env0`](https://www.env0.com) - Automate your Pulumi workflows with extra control over RBAC, Pull Request Automation, and other helpful features. 
 - [`tmeckel/pulumi-tf-provider-cookiecutter`](https://github.com/tmeckel/pulumi-tf-provider-cookiecutter) - A Cookiecutter template to create a Pulumi provider out of a Terraform Provider using TF Bridge
-- [`Deskypus`](https://deskypus.github.io) - Cross-platform desktop app to supercharge your local development experience whether you use self-managed or Pulumi Cloud as your backend
+- [`Deskypus`](https://deskypus.cloudysky.software) - Cross-platform desktop app to supercharge your local development experience for both self-managed and Pulumi Cloud users
 - [`Deskypus Deeplink`](https://github.com/deskypus/deeplink#installation) A browser extension that deep-links into Deskypus while browsing Pulumi Cloud
 - [`spigell/pulumi-hcloud-kube-hetzner`](https://github.com/spigell/pulumi-hcloud-kube-hetzner) - Deploy and manage Kubernetes (k3s) cluster with Hetzner Cloud.
 
@@ -154,6 +154,7 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 - [`tabetalt/pulumix`](https://github.com/tabetalt/pulumix) - Set of template-driven Pulumi resources used to configure Tabetalt's intrastructure as code.
 - [`codedevote/pulumix`](https://github.com/codedevote/pulumix) - Simple extensions and helpers to use with Pulumi
 - [`pulumiverse/katwalk`](https://github.com/pulumiverse/katwalk) - Library for LLM backend deployments using Pulumi
+- [`cloudy-sky-software/pulschema`](https://github.com/cloudy-sky-software/pulschema) - Library for developing native providers from OpenAPI specs
 
 ## Reference Architectures
 - [Office Booker](https://github.com/o2Labs/office-booker) - Real-time office space booking app
