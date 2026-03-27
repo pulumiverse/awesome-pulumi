@@ -181,6 +181,7 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 
 ### Commercial Products
 - [FeedHive](https://feedhive.io/)[^feedhive]
+- [Wraps](https://wraps.dev/)[^wraps]
 
 ## License
 
@@ -190,3 +191,4 @@ To the extent possible under law, Geoffrey Huntley has waived all copyright and 
 
 [^dailydev]: [Daily.dev tech stack](https://github.com/dailydotdev/daily#-tech-stack)
 [^feedhive]: [Saas template from the creator of FeedHive](https://github.com/SimonHoiberg/saas-template#tech-stack)
+[^wraps]: [Wraps uses Pulumi infrastructure stacks](https://wraps.dev/) — "all infrastructure is deployed as open-source Pulumi code you can fork and modify"
