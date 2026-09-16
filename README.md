@@ -157,6 +157,7 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 - [`codedevote/pulumix`](https://github.com/codedevote/pulumix) - Simple extensions and helpers to use with Pulumi
 - [`pulumiverse/katwalk`](https://github.com/pulumiverse/katwalk) - Library for LLM backend deployments using Pulumi
 - [`cloudy-sky-software/pulschema`](https://github.com/cloudy-sky-software/pulschema) - Library for developing native providers from OpenAPI specs
+- [`byjg/pulumi-github-fleet`](https://github.com/byjg/pulumi-github-fleet) - Python library to manage GitHub repository settings, secrets, workflow permissions and branch protection rulesets for many repositories from a single configuration file.
 
 ## Reference Architectures
 - [Office Booker](https://github.com/o2Labs/office-booker) - Real-time office space booking app
