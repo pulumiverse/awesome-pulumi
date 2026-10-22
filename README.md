@@ -144,6 +144,7 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 - [`Deskypus Deeplink`](https://github.com/deskypus/deeplink#installation) A browser extension that deep-links into Deskypus while browsing Pulumi Cloud
 - [`spigell/pulumi-hcloud-kube-hetzner`](https://github.com/spigell/pulumi-hcloud-kube-hetzner) - Deploy and manage Kubernetes (k3s) cluster with Hetzner Cloud.
 - [`bperel/pulumi-history-as-git`](https://github.com/bperel/pulumi-history-as-git) - Browse through the history of a Pulumi stack with Git commands.
+- [`rshade/finfocus`](https://github.com/rshade/finfocus) - Estimate the cost of a Pulumi stack from `pulumi preview` output before you deploy, with a GitHub Action that comments the estimate on pull requests.
 
 ## Libraries
 
