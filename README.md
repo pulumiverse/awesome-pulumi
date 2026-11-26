@@ -128,6 +128,7 @@ Pulumi is a multi-language and multi-cloud development platform. It lets you cre
 - [`jaxxstorm/pulumi-rke`](https://github.com/jaxxstorm/pulumi-rke) - Provision an RKE Kubernetes cluster with Pulumi
 - [`jaxxstorm/pulumi-scaleway`](https://github.com/jaxxstorm/pulumi-scaleway) - Provision to Scaleway using Pulumi
 - [`brandonkal/pulumi-command`](https://github.com/brandonkal/pulumi-command) - A simple Pulumi provider that allows one to run arbitrary commands and treat their outputs as a resource
+- [`noderings/pulumi-noderings`](https://github.com/noderings/pulumi-noderings) - Provision NodeRings servers, DNS and related resources with Pulumi
 - [`unplatform-io/pulumi-commercetools`](https://github.com/unplatform-io/pulumi-commercetools) - CommerceTools resource provider for Pulumi
 
 ## Tools
